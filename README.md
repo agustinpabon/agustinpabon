@@ -1,7 +1,12 @@
 ```text
-┌── agustin@lab ~ $ whoami ──────┐
-│ agustinpabon                   │
-└────────────────────────────────┘
+$ whoami
+                             ´                          ´
+    ___                    __  _          ____        __
+   /   | ____ ___  _______/ /_(_)___     / __ \____ _/ /_  ____  ____
+  / /| |/ __ `/ / / / ___/ __/ / __ \   / /_/ / __ `/ __ \/ __ \/ __ \
+ / ___ / /_/ / /_/ (__  ) /_/ / / / /  / ____/ /_/ / /_/ / /_/ / / / /
+/_/  |_\__, /\__,_/____/\__/_/_/ /_/  /_/    \__,_/_.___/\____/_/ /_/
+      /____/
 ```
 
 # Agustín Pabón
@@ -89,5 +94,5 @@ Also working with: JavaScript, C++, SQL, Bash, Tailwind CSS, PyTorch, Linux, Git
 
 ---
 
-**Québec City, Canada** · Spanish / French / English<br>
+**Agustín Pabón** · Québec City, Canada · Spanish / French / English<br>
 [SYSMOTIX](https://sysmotix.com/en) · [Contact](mailto:agustinpabonlaure@gmail.com)
