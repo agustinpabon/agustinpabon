@@ -29,7 +29,7 @@ At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private sof
 
 ## Some selected Client Work
 
-Web development delivered through [SYSMOTIX](https://sysmotix.com/en).
+Web development delivered through [Sysmotix](https://sysmotix.com/en).
 
 <p align="left">
   <a href="https://maducconstruction.com/"><img src="assets/client-maduc-construction.jpg" width="320" alt="MADUC Construction website preview" /></a>
