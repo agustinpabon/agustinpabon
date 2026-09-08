@@ -106,7 +106,9 @@ Selected private work is described at a high level; source code is not publicly 
 
 ## GitHub Activity
 
-<img src="https://streak-stats.demolab.com/?user=agustinpabon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="495" alt="Agustín Pabón's GitHub Activity" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=agustinpabon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="495" alt="Agustín Pabón's GitHub Activity" />
+</p>
 
 ---
 
