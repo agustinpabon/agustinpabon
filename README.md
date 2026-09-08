@@ -18,15 +18,16 @@ $ whoami
 [![Location](https://img.shields.io/badge/Location-Québec%20City%2C%20Canada-blueviolet?style=flat-square)](https://maps.google.com/?q=Quebec+City,+Canada)
 [![Languages](https://img.shields.io/badge/Languages-Spanish%20%2F%20French%20%2F%20English-2ea44f?style=flat-square)](https://github.com/agustinpabon)
 
-[SYSMOTIX](https://sysmotix.com/en) · [Contact](mailto:agustinpabonlaure@gmail.com)
+[Contact](mailto:agustinpabonlaure@gmail.com)
 
 I am a software developer and M.Sc. student in Computer Science at Université Laval, based in Québec City, Canada.
 
-My work combines full-stack product development with applied AI and cybersecurity research. At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private software products. In my engineering workflow, I prioritize clear architecture, reproducible experiments, automated testing, and software that remains straightforward to maintain over time.
+My work combines full-stack product development with applied AI and cybersecurity research. 
+At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private software products. In my engineering workflow, I prioritize clear architecture, reproducible experiments, automated testing, and software that remains straightforward to maintain over time.
 
 ---
 
-## Selected Client Work
+## Some selected Client Work
 
 Web development delivered through [SYSMOTIX](https://sysmotix.com/en).
 
