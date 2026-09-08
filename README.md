@@ -58,11 +58,17 @@ Website development for a video and advertising business.
 
 ## Private Development
 
-| Area | Focus | Availability | Status |
-| :--- | :--- | :--- | :--- |
-| **Applied AI research** | Research software and reproducible experimentation. | Private repository | Research |
-| **Web & mobile products** | Cross-platform application development. | Private repository | In development |
-| **Business software** | Internal tools and operational workflows. | Private repository | In development |
+- **Applied AI research**<br>
+  Research software and reproducible experimentation.<br>
+  Private repository · Research
+
+- **Web & mobile products**<br>
+  Cross-platform application development.<br>
+  Private repository · In development
+
+- **Business software**<br>
+  Internal tools and operational workflows.<br>
+  Private repository · In development
 
 Selected private work is described at a high level; source code is not publicly available.
 
