@@ -36,8 +36,8 @@ Web development delivered through [SYSMOTIX](https://sysmotix.com/en).
   <a href="https://chezessor.ca/"><img src="assets/client-essor.jpg" width="320" alt="ESSOR website preview" /></a>
 </p>
 
-- **[MADUC Construction](https://maducconstruction.com/)** — Website development for a residential renovation company. · [Visit website](https://maducconstruction.com/)
-- **[ESSOR](https://chezessor.ca/)** — Website development for a video and advertising business. · [Visit website](https://chezessor.ca/)
+- **[MADUC Construction](https://maducconstruction.com/)** - Website development for a residential renovation company. · [Visit website](https://maducconstruction.com/)
+- **[ESSOR](https://chezessor.ca/)** - Website development for a video and advertising business. · [Visit website](https://chezessor.ca/)
 
 ---
 
@@ -51,7 +51,7 @@ Web development delivered through [SYSMOTIX](https://sysmotix.com/en).
 
 - **[Toponymy · Tutte Institute](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
   Contributed a clustering integration and focused tests.<br>
-  [PR #156 — Merged](https://github.com/TutteInstitute/toponymy/pull/156)
+  [PR #156 - Merged](https://github.com/TutteInstitute/toponymy/pull/156)
 
 ---
 
