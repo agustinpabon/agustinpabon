@@ -27,7 +27,7 @@ At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private sof
 
 ---
 
-## Some selected Client Work
+## Some selected web client work
 
 Web development delivered through [Sysmotix](https://sysmotix.com/en).
 
