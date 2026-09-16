@@ -42,17 +42,43 @@ Web development delivered through [Sysmotix](https://sysmotix.com/en) .
 
 ---
 
-## Public Projects & Open Source
+## Open Source Contributions
+
+Upstream contributions to open source projects and developer ecosystems:
+
+- **[NVIDIA / cccl](https://github.com/NVIDIA/cccl)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
+  Added an NVHPC stdpar smoke test for `std::count` with `std::execution::par` covering parallel algorithms, edge cases, and static assertions.<br>
+  [PR #11245](https://github.com/NVIDIA/cccl/pull/11245)
+
+- **[Tutte Institute / toponymy](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
+  Added `PLSCANClusterer` wrapper around `fast_plscan.PLSCAN` and focused clustering test suites for topic modeling.<br>
+  [PR #156](https://github.com/TutteInstitute/toponymy/pull/156)
+
+- **[Shopify / theme-tools](https://github.com/Shopify/theme-tools)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Added `requireOther` validation to `MatchingTranslations` in Shopify Theme Check to report missing plural forms in storefront locale files.<br>
+  [PR #1292](https://github.com/Shopify/theme-tools/pull/1292)
+
+- **[IBM / spnl](https://github.com/IBM/spnl)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Fixed GCE exit-code bucket selection in cloud-config CLI resolution for GenAI query planning benchmark runs.<br>
+  [PR #967](https://github.com/IBM/spnl/pull/967)
+
+- **[Google / webcrypto.dart](https://github.com/google/webcrypto.dart)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Extracted runnable `AesGcmSecretKey.importRawKey` documentation example with region references for Dart static analysis and verification.<br>
+  [PR #394](https://github.com/google/webcrypto.dart/pull/394)
+
+- **[OpenAI / build-hours](https://github.com/openai/build-hours)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Restored local image generation demo assets and resolved broken screenshot references.<br>
+  [PR #35](https://github.com/openai/build-hours/pull/35)
+
+---
+
+## Featured Projects
 
 - **[Telemetry Court](https://github.com/agustinpabon/Telemetry-court)** &nbsp; ![Public Prototype](https://img.shields.io/badge/Public-Prototype-orange?style=flat-square)<br>
   Evidence-based human-in-the-loop AI validation bench for telemetry cluster interpretations.
 
 - **[World Cup Simulator](https://github.com/agustinpabon/fifa-world-cup-2026-simulator)** &nbsp; ![Public](https://img.shields.io/badge/Public-brightgreen?style=flat-square)<br>
   Probabilistic modeling and tournament simulation.
-
-- **[Toponymy · Tutte Institute](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
-  Contributed a clustering integration and focused tests.<br>
-  [PR #156 - Merged](https://github.com/TutteInstitute/toponymy/pull/156)
 
 ---
 
@@ -79,6 +105,8 @@ Selected private work is described at a high level; source code is not publicly 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
