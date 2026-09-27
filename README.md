@@ -27,21 +27,6 @@ At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private sof
 
 ---
 
-## Some selected web client work
-
-Web development delivered through [Sysmotix](https://sysmotix.com/en) .
-
-<p align="left">
-  <a href="https://maducconstruction.com/"><img src="assets/client-maduc-construction.jpg" width="320" alt="MADUC Construction website preview" /></a>
-  &nbsp;
-  <a href="https://chezessor.ca/"><img src="assets/client-essor.jpg" width="320" alt="ESSOR website preview" /></a>
-</p>
-
-- **[MADUC Construction](https://maducconstruction.com/)** - Website development for a residential renovation company. · [Visit website](https://maducconstruction.com/)
-- **[ESSOR](https://chezessor.ca/)** - Website development for a video and advertising business. · [Visit website](https://chezessor.ca/)
-
----
-
 ## Open Source Contributions
 
 Upstream contributions to open source projects and developer ecosystems:
