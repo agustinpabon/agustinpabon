@@ -29,7 +29,17 @@ At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private sof
 
 ## Open Source Contributions
 
-Upstream contributions to open source projects and developer ecosystems:
+Upstream contributions to open source projects, runtimes, and developer ecosystems:
+
+### Merged Upstream
+
+- **[IBM / spnl](https://github.com/IBM/spnl)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
+  Fixed GCE exit-code bucket selection in cloud-config CLI resolution for GenAI query planning benchmark runs.<br>
+  [PR #967](https://github.com/IBM/spnl/pull/967)
+
+- **[Google / webcrypto.dart](https://github.com/google/webcrypto.dart)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
+  Extracted runnable `AesGcmSecretKey.importRawKey` documentation example with region references for Dart static analysis and verification.<br>
+  [PR #394](https://github.com/google/webcrypto.dart/pull/394)
 
 - **[NVIDIA / cccl](https://github.com/NVIDIA/cccl)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
   Added an NVHPC stdpar smoke test for `std::count` with `std::execution::par` covering parallel algorithms, edge cases, and static assertions.<br>
@@ -39,17 +49,19 @@ Upstream contributions to open source projects and developer ecosystems:
   Added `PLSCANClusterer` wrapper around `fast_plscan.PLSCAN` and focused clustering test suites for topic modeling.<br>
   [PR #156](https://github.com/TutteInstitute/toponymy/pull/156)
 
+### Under Review / Active
+
+- **[storytold / photocraft](https://github.com/storytold/photocraft)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Added live canvas hover preview for Layer Style blend modes across 9 effect types and Blending Options with cache reuse and egui test coverage.<br>
+  [PR #5961](https://github.com/storytold/photocraft/pull/5961)
+
+- **[Tutte Institute / toponymy](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
+  Refactored pipeline and clustering ownership to cleanly decouple cluster membership, feature extraction, prompts, and topic naming.<br>
+  [PR #211](https://github.com/TutteInstitute/toponymy/pull/211)
+
 - **[Shopify / theme-tools](https://github.com/Shopify/theme-tools)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
   Added `requireOther` validation to `MatchingTranslations` in Shopify Theme Check to report missing plural forms in storefront locale files.<br>
   [PR #1292](https://github.com/Shopify/theme-tools/pull/1292)
-
-- **[IBM / spnl](https://github.com/IBM/spnl)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
-  Fixed GCE exit-code bucket selection in cloud-config CLI resolution for GenAI query planning benchmark runs.<br>
-  [PR #967](https://github.com/IBM/spnl/pull/967)
-
-- **[Google / webcrypto.dart](https://github.com/google/webcrypto.dart)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
-  Extracted runnable `AesGcmSecretKey.importRawKey` documentation example with region references for Dart static analysis and verification.<br>
-  [PR #394](https://github.com/google/webcrypto.dart/pull/394)
 
 - **[OpenAI / build-hours](https://github.com/openai/build-hours)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
   Restored local image generation demo assets and resolved broken screenshot references.<br>
