@@ -33,6 +33,9 @@ Upstream contributions to open source projects, runtimes, and developer ecosyste
 
 ### Merged Upstream
 
+- **[Tutte Institute / toponymy](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
+  Contributed core clustering architecture and integrations: `PLSCANClusterer` ([PR #156](https://github.com/TutteInstitute/toponymy/pull/156)), base `Clusterer` types & `EVoCClusterer` ([PR #220](https://github.com/TutteInstitute/toponymy/pull/220)), and `PrecomputedClusterer` with tree validation & scikit-learn conventions ([PR #223](https://github.com/TutteInstitute/toponymy/pull/223), [PR #227](https://github.com/TutteInstitute/toponymy/pull/227)).
+
 - **[IBM / spnl](https://github.com/IBM/spnl)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
   Fixed GCE exit-code bucket selection in cloud-config CLI resolution for GenAI query planning benchmark runs.<br>
   [PR #967](https://github.com/IBM/spnl/pull/967)
@@ -45,15 +48,10 @@ Upstream contributions to open source projects, runtimes, and developer ecosyste
   Added an NVHPC stdpar smoke test for `std::count` with `std::execution::par` covering parallel algorithms, edge cases, and static assertions.<br>
   [PR #11245](https://github.com/NVIDIA/cccl/pull/11245)
 
-- **[Tutte Institute / toponymy](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Merged](https://img.shields.io/badge/PR-Merged-blueviolet?style=flat-square)<br>
-  Added `PLSCANClusterer` wrapper around `fast_plscan.PLSCAN` and focused clustering test suites for topic modeling.<br>
-  [PR #156](https://github.com/TutteInstitute/toponymy/pull/156)
-
 ### Under Review / Active
 
 - **[storytold / photocraft](https://github.com/storytold/photocraft)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
-  Added live canvas hover preview for Layer Style blend modes across 9 effect types and Blending Options with cache reuse and egui test coverage.<br>
-  [PR #5961](https://github.com/storytold/photocraft/pull/5961)
+  Contributed UI rendering and stress-testing in pure Rust: live canvas hover preview for Layer Style blend modes ([PR #5961](https://github.com/storytold/photocraft/pull/5961)) and automated window resize stress-test harness ([PR #7310](https://github.com/storytold/photocraft/pull/7310)).
 
 - **[Tutte Institute / toponymy](https://github.com/TutteInstitute/toponymy)** &nbsp; ![PR Open](https://img.shields.io/badge/PR-Open-2ea44f?style=flat-square)<br>
   Refactored pipeline and clustering ownership to cleanly decouple cluster membership, feature extraction, prompts, and topic naming.<br>
@@ -70,6 +68,9 @@ Upstream contributions to open source projects, runtimes, and developer ecosyste
 ---
 
 ## Featured Projects
+
+- **[InkExplain](https://github.com/agustinpabon/InkExplain)** &nbsp; ![Public](https://img.shields.io/badge/Public-brightgreen?style=flat-square)<br>
+  Turn code, docs, and ideas into hand-drawn illustrations with AI agents.
 
 - **[Telemetry Court](https://github.com/agustinpabon/Telemetry-court)** &nbsp; ![Public Prototype](https://img.shields.io/badge/Public-Prototype-orange?style=flat-square)<br>
   Evidence-based human-in-the-loop AI validation bench for telemetry cluster interpretations.
