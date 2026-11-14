@@ -23,7 +23,7 @@ $ whoami
 I am a software developer and M.Sc. student in Computer Science at Université Laval, based in Québec City, Canada.
 
 My work combines full-stack product development with applied AI and cybersecurity research. 
-At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private software products. In my engineering workflow, I prioritize clear architecture, reproducible experiments, automated testing, and software that remains straightforward to maintain over time.
+At [SYSMOTIX](https://sysmotix.com/en), I build web applications and private software products. In my engineering workflow, I prioritize clear architecture, reproducible experiments, automated testing, and software that remains straightforward to maintain over time .
 
 ---
 
